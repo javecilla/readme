@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Jerome
 </h1>
-<h3 align="center">I'm an aspiring Web-Developer! Currently Freelancing as Junior Web Developer</h3>
+<h3 align="center">I'm an aspiring Web-Developer</h3>
 
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 <h3 align="left">About me: </h3>
 <p align="left">
-	I am currently a first-year Bachelor of Science in Information Technology (BSIT) student. My primary focus lies in web development, and I am dedicated to honing my skills in this field.<br/>
+	I am currently a first-year Bachelor of Science in Information Technology (BSIT) student. My primary focus lies in web development, and I am dedicated to honing my skills in this field.<br/><br/>
 	As a passionate coder, I invest a considerable amount of time honing my skills and expanding my knowledge in various aspects of web development. Since embarking on my journey in 2020, I have become proficient in HTML, CSS, and JavaScript. I am dedicated to continuously learning and growing in the field.
 </p>
 
 - 🌱 I’m currently learning **Laravel for PHP Frameworks.**
 
-- 👨‍💻 All of my projects are available at [https://javecilla.vercel.app/](https://javecilla.vercel.app/)
+- 👨‍💻 The below are my diverse portfolio of projects, including academic, personal, and large-scale endeavors. Take a closer look to witness my range of skills and expertise. <br/> [https://javecilla.vercel.app/](https://javecilla.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
