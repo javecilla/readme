@@ -67,4 +67,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javecilla&show_icons=true&locale=en" alt="javecilla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javecilla&" alt="javecilla" /></p>
