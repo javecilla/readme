@@ -17,7 +17,7 @@
 	As a passionate coder, I invest a considerable amount of time honing my skills and expanding my knowledge in various aspects of web development. Since embarking on my journey in 2020, I have become proficient in HTML, CSS, and JavaScript. I am dedicated to continuously learning and growing in the field.
 </p>
 
-- 🌱 I’m currently learning **Laravel for PHP Frameworks.**
+- 🌱 I’m currently learning **Vue JS Front End Frameworks.**
 
 - 👨‍💻 The link below are my diverse portfolio of projects, including academic, personal, and large-scale endeavors. Take a closer look to witness my range of skills and expertise. <br/> [https://javecilla.vercel.app/](https://javecilla.vercel.app/)
 
