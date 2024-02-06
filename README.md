@@ -58,16 +58,16 @@
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 	</a>
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/laravel.png" alt="laravel" width="150" height="100"/> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/laravel.png" alt="laravel" width="90" height="90"/> 
 	</a>
 	<a href="https://cpanel.net/" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/cpanel.png" alt="cpanel" width="150" height="100"/> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/cpanel.png" alt="cpanel" width="90" height="90"/> 
 	</a>
 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/api.png" alt="api" width="100" height="90"/> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/api.png" alt="api" width="70" height="70"/> 
 	</a>
 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/seo.png" alt="seo" width="50" height="50"/> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/seo.png" alt="seo" width="70" height="60"/> 
 	</a>
 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npm" width="40" height="40"/> 
