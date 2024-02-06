@@ -1,6 +1,5 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Jerome
-</h1>
-<h3 align="center">I'm an aspiring Web-Developer</h3>
+<h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Jerome Avecilla</h1>
+<h3 align="center">I'm an aspiring Web-Developer!</h3>
 
 
 <p align="center">
@@ -13,22 +12,19 @@
 
 <h3 align="left">About me: </h3>
 <p align="left">
-	I am currently a first-year Bachelor of Science in Information Technology (BSIT) student. My primary focus lies in web development, and I am dedicated to honing my skills in this field.<br/><br/>
-	As a passionate coder, I invest a considerable amount of time honing my skills and expanding my knowledge in various aspects of web development. Since embarking on my journey in 2020, I have become proficient in HTML, CSS, and JavaScript. I am dedicated to continuously learning and growing in the field.
+	I am currently a first-year Bachelor of Science in Information Technology (BSIT) student. My primary focus lies in web development, and I am dedicated to honing my skills in this field.<br/>
+	As a passionate coder, I invest a considerable amount of time honing my skills and expanding my knowledge in various aspects of web development. Since embarking on my journey in 2021, I have become proficient in HTML, CSS, and JavaScript. I am dedicated to continuously learning and growing in the field.
 </p>
 
-- 🌱 I’m currently learning **Vue JS Front End Frameworks.**
+- 🌱 I’m currently learning **Vue JS** as my Framework for my Front End and Docker for containerization
 
 - 👨‍💻 The link below are my diverse portfolio of projects, including academic, personal, and large-scale endeavors. Take a closer look to witness my range of skills and expertise. <br/> [https://javecilla.vercel.app/](https://javecilla.vercel.app/)
 
-<h3 align="left">Socials:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-	Feel free to connect with me via;
-</p>
-<p align="left">
-<a href="https://twitter.com/itsjerome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsjerome" height="30" width="40" /></a>
-<a href="https://fb.com/jerome.avecilla24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jerome.avecilla24" height="30" width="40" /></a>
-<a href="https://instagram.com/_jzerome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jzerome" height="30" width="40" /></a>
+<a href="https://twitter.com/itsjerome" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg" alt="twitter" height="30" width="40" /></a>
+<a href="https://fb.com/jerome.avecilla24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/_jzerome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://discord.gg/javecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javecilla" height="30" width="40" /></a>
 </p>
 
@@ -47,7 +43,7 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 	</a> 
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+		<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="40"/> 
 	</a> 
 	<a href="https://jquery.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /> 
@@ -62,7 +58,19 @@
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 	</a>
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/laravel.png" alt="laravel" width="60" height="60"/> 
+	</a>
+	<a href="https://cpanel.net/" target="_blank" rel="noreferrer"> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/cpanel.png" alt="cpanel" width="60" height="60"/> 
+	</a>
+	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/api.png" alt="api" width="50" height="50"/> 
+	</a>
+	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/seo.png" alt="seo" width="50" height="50"/> 
+	</a>
+	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npm" width="40" height="40"/> 
 	</a>
 </p>
 
