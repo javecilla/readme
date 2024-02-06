@@ -16,7 +16,7 @@
 	As a passionate coder, I invest a considerable amount of time honing my skills and expanding my knowledge in various aspects of web development. Since embarking on my journey in 2021, I have become proficient in HTML, CSS, and JavaScript. I am dedicated to continuously learning and growing in the field.
 </p>
 
-- 🌱 I’m currently learning **Vue JS** as my Framework for my Front End and Docker for containerization
+- 🌱 I’m currently learning **Vue JS** as my Front End Framework and **Docker** for containerization
 
 - 👨‍💻 The link below are my diverse portfolio of projects, including academic, personal, and large-scale endeavors. Take a closer look to witness my range of skills and expertise. <br/> [https://javecilla.vercel.app/](https://javecilla.vercel.app/)
 
@@ -58,13 +58,13 @@
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 	</a>
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/laravel.png" alt="laravel" width="60" height="60"/> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/laravel.png" alt="laravel" width="150" height="100"/> 
 	</a>
 	<a href="https://cpanel.net/" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/cpanel.png" alt="cpanel" width="60" height="60"/> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/cpanel.png" alt="cpanel" width="150" height="100"/> 
 	</a>
 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/api.png" alt="api" width="50" height="50"/> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/api.png" alt="api" width="100" height="90"/> 
 	</a>
 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
 		<img src="https://javecilla.vercel.app/assets/images/logo/seo.png" alt="seo" width="50" height="50"/> 
