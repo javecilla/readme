@@ -1,5 +1,5 @@
 <h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Jerome Avecilla</h1>
-<h3 align="center">I'm an aspiring Web-Developer!</h3>
+<h3 align="center">Aspiring Web-Developer!</h3>
 
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <h3 align="left">About me: </h3>
 <p align="left">
-	I am currently a first-year Bachelor of Science in Information Technology (BSIT) student. My primary focus lies in web development, and I am dedicated to honing my skills in this field.<br/>
+	I'm currently a first-year Bachelor of Science in Information Technology (BSIT) student. My primary focus lies in web development, and I am dedicated to honing my skills in this field.<br/>
 	As a passionate coder, I invest a considerable amount of time honing my skills and expanding my knowledge in various aspects of web development. Since embarking on my journey in 2021, I have become proficient in HTML, CSS, and JavaScript. I am dedicated to continuously learning and growing in the field.
 </p>
 
@@ -76,6 +76,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javecilla&show_icons=true&locale=en&layout=compact" alt="javecilla" /></p>
-<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javecilla&show_icons=true&locale=en" alt="javecilla" /></p>
+<p>![GitHub streak stats](https://streak-stats.demolab.com/?user=javecilla) </p>
 
