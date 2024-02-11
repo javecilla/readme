@@ -74,9 +74,11 @@
 	</a>
 </p>
 
+<center>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javecilla&show_icons=true&locale=en&layout=compact" alt="javecilla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javecilla&show_icons=true&locale=en" alt="javecilla" /></p>
-<p>![GitHub streak stats](https://streak-stats.demolab.com/?user=javecilla) </p>
 
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=javecilla&show_icons=true&locale=en" alt="javecilla" /></p>
+</center>
