@@ -9,14 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javecilla&label=Profile%20views&color=0e75b6&style=flat" alt="javecilla" /> </p>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 <h3 align="left">About me: </h3>
 <p align="left">
 	I'm currently a first-year Bachelor of Science in Information Technology (BSIT) student. My primary focus lies in web development, and I am dedicated to honing my skills in this field.<br/>
