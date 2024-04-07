@@ -75,8 +75,7 @@
 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npm" width="40" height="40"/> 
 	</a>
-	
- 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+ <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
 		<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2017-present.jpg" alt="docker" width="90" height="90"/> 
 	</a>
 </p>
