@@ -14,8 +14,6 @@
 	I am a first-year Bachelor of Science in Information Technology (BSIT) student with a passion for web development. I devote significant time to refining my skills and broadening my expertise across various facets of web development. Since embarking my journey in 2021, I have become proficiency in HTML, CSS, and JavaScript. My commitment is unwavering as I strive for continuous learning and growth in this dynamic field.
 </p>
 
-- 🌱 Currently learning **Docker** for containerization.
-
 - 👨‍💻 The link below are my diverse portfolio of projects, including academic, personal, and large-scale endeavors. Take a closer look to witness my range of skills and expertise. <br/> [https://javecilla.vercel.app/](https://javecilla.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
@@ -59,11 +57,11 @@
 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
 		<img src="https://javecilla.vercel.app/assets/images/logo/vercel.png" alt="vercel" width="90" height="90"/> 
 	</a>
-	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/laravel.png" alt="laravel" width="90" height="90"/> 
-	</a>
 	<a href="https://cpanel.net/" target="_blank" rel="noreferrer"> 
 		<img src="https://javecilla.vercel.app/assets/images/logo/cpanel.png" alt="cpanel" width="90" height="90"/> 
+	</a>
+	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/laravel.png" alt="laravel" width="90" height="90"/> 
 	</a>
 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
 		<img src="https://javecilla.vercel.app/assets/images/logo/api.png" alt="api" width="70" height="70"/> 
@@ -77,14 +75,12 @@
 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npm" width="40" height="40"/> 
 	</a>
-
+	
+ 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2017-present.jpg" alt="docker" width="90" height="90"/> 
+	</a>
 </p>
 
 <center>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javecilla&show_icons=true&locale=en&layout=compact" alt="javecilla" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javecilla&show_icons=true&locale=en" alt="javecilla" /></p>
-
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=javecilla&show_icons=true&locale=en" alt="javecilla" /></p>
 </center>
