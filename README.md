@@ -11,7 +11,7 @@
 
 <h3 align="left">About me: </h3>
 <p align="left">
-	I am a first-year Bachelor of Science in Information Technology (BSIT) student with a passion for web development. I devote significant time to refining my skills and broadening my expertise across various facets of web development. Since embarking my journey in 2021, I have become proficiency in HTML, CSS, and JavaScript. My commitment is unwavering as I strive for continuous learning and growth in this dynamic field.<br/><br/>
+	I am a second-year Bachelor of Science in Information Technology (BSIT) student with a passion for web development. I devote significant time to refining my skills and broadening my expertise across various facets of web development. Since embarking my journey in 2021, I have become proficiency in HTML, CSS, and JavaScript. My commitment is unwavering as I strive for continuous learning and growth in this dynamic field.<br/><br/>
 	The link below are my diverse portfolio of projects, including academic, personal, and large-scale endeavors. Take a closer look to witness my range of skills and expertise. <br/>
 	https://javecilla.vercel.app/
 </p>
