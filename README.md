@@ -24,6 +24,15 @@
 <a href="https://discord.gg/javecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javecilla" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Currently Learning:</h3>
+<p align="left">
+	<a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
+		<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2017-present.jpg" alt="docker" width="95" height="90"/> 
+	</a>
+        <a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAw6g643X_IP059eZ03Jh_kcr9-a-oQpMdhQ&s" alt="typescript" width="95" height="90"/> 
+	</a>
+</p>
 
 <h3 align="left">Tech Stacks:</h3>
 <p align="left">
@@ -72,9 +81,7 @@
 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
 		<img src="https://vuejs.org/images/logo.png" alt="vue js" width="40" height="40"/> 
 	</a>
- <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
-		<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2017-present.jpg" alt="docker" width="95" height="90"/> 
-	</a>
+ 
 </p>
 
 <center>
