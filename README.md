@@ -25,21 +25,29 @@
 </p>
 
 <h3 align="left">Currently Learning:</h3>
-<p align="left">
-	<a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
-		<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2017-present.jpg" alt="docker" width="95" height="90"/> 
+<p align="left"> 
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 	</a>
-        <a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-top: -50px"> 
-		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAw6g643X_IP059eZ03Jh_kcr9-a-oQpMdhQ&s" alt="typescript" width="30" height="30"/> 
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+	</a> 
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 	</a>
+	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJXGveO9uR0WrcX7wr3XxCPYmM3sMl1oT9A&s" alt="photoshop" width="40" height="40"/> 
+	</a> 
 </p>
 
-<h3 align="left">Tech Stacks:</h3>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	I'm thrilled to share my web development tech stack and skills. With ongoing learning and a passion for innovation, I continuously expand my knowledge to improve my skills and stay ahead of industry trends.
 </p>
-<p align="left"> 
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+
+<p align="left">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 	</a> 
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -47,43 +55,54 @@
 	</a> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-	</a> 
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-		<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="40"/> 
-	</a> 
+	</a>
 	<a href="https://jquery.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /> 
+	</a>
+ 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+		<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="40"/> 
+	</a>
+	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/vercel.png" alt="vercel" width="50" height="50"/> 
 	</a>
 	<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 	</a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-	</a> 
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+	</a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-	</a>
-	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/vercel.png" alt="vercel" width="90" height="90"/> 
-	</a>
+	</a> 
 	<a href="https://cpanel.net/" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/cpanel.png" alt="cpanel" width="90" height="90"/> 
+		<img src="https://cpanel.net/wp-content/themes/cPbase/assets/img/apple-touch-icon.png" alt="cpanel" width="40" height="40"/> 
 	</a>
-	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/laravel.png" alt="laravel" width="90" height="90"/> 
+        <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://laravel.com/img/favicon/apple-touch-icon.png" alt="laravel" width="50" height="50"/> 
+	</a>
+ 	<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+	</a>
+ 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/api.png" alt="api" width="50" height="50"/> 
 	</a>
 	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/api.png" alt="api" width="70" height="70"/> 
+		<img src="https://javecilla.vercel.app/assets/images/logo/seo.png" alt="seo" width="50" height="50"/> 
 	</a>
-	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
-		<img src="https://javecilla.vercel.app/assets/images/logo/seo.png" alt="seo" width="70" height="60"/> 
+	<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 	</a>
-	<a href="javascript:void(0)" target="_blank" rel="noreferrer"> 
-		<img src="https://vuejs.org/images/logo.png" alt="vue js" width="40" height="40"/> 
+	<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
+		<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
 	</a>
- 
-</p>
+	<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://static.canva.com/static/images/favicon-1.ico" alt="canva" width="30" height="30"/> 
+	</a> 
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+	</a> 
 
+</p>
 <center>
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=javecilla&show_icons=true&locale=en" alt="javecilla" /></p>
 </center>
