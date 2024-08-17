@@ -1,5 +1,5 @@
 <h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Jerome Avecilla</h1>
-<h3 align="center">Aspiring Full-Stack Developer - Focused on Backend Development</h3>
+<h3 align="center">An Aspiring Web Developer</h3>
 
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <h3 align="left">About me: </h3>
 <p align="left">
-	I am a second-year Bachelor of Science in Information Technology (BSIT) student with a passion for web development. I devote significant time to refining my skills and broadening my expertise across various facets of web development. Since embarking my journey in 2021, I have become proficiency in HTML, CSS, and JavaScript. My commitment is unwavering as I strive for continuous learning and growth in this dynamic field.<br/><br/>
+	I am a second-year BSIT student with a passion for web development. I devote significant time to refining my skills and broadening my expertise across various facets of web development. Since embarking my journey in 2021, I have become proficiency in HTML, CSS, and JavaScript. My commitment is unwavering as I strive for continuous learning and growth in this dynamic field.<br/><br/>
 	The link below are my diverse portfolio of projects, including academic, personal, and large-scale endeavors. Take a closer look to witness my range of skills and expertise. <br/>
 	https://javecilla.vercel.app/
 </p>
@@ -91,15 +91,15 @@
 		<img src="https://static.canva.com/static/images/favicon-1.ico" alt="canva" width="30" height="30"/> 
 	</a> 
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> 
 	</a> 
 
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsjerome" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg" alt="twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/itsjerome" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg" alt="twitter" height="30" width="30" /></a>
 <a href="https://fb.com/jerome.avecilla24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/_jzerome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://discord.gg/javecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javecilla" height="30" width="40" /></a>
+<a href="https://discord.gg/javecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javecilla" height="40" width="45" /></a>
 </p>
