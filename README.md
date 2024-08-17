@@ -29,8 +29,8 @@
 	<a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
 		<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2017-present.jpg" alt="docker" width="95" height="90"/> 
 	</a>
-        <a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAw6g643X_IP059eZ03Jh_kcr9-a-oQpMdhQ&s" alt="typescript" width="95" height="90"/> 
+        <a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-top: -50px"> 
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAw6g643X_IP059eZ03Jh_kcr9-a-oQpMdhQ&s" alt="typescript" width="30" height="30"/> 
 	</a>
 </p>
 
