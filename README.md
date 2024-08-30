@@ -103,8 +103,6 @@
     <img width="30px" title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img width="30px" title="vite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" />
     <img width="30px" title="canva" src="https://static.canva.com/static/images/favicon-1.ico" />
-    <img width="30px" title="rest api" src="https://javecilla.vercel.app/assets/images/logo/api.png" />
-    <img width="30px" title="seo" src="https://javecilla.vercel.app/assets/images/logo/seo.png" />
   </kbd>
 </p>
 
