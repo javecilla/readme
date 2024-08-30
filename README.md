@@ -97,7 +97,6 @@
     <br>
     <br>
     <img width="30px" title="cdn js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3X0aV2kvIeIx6PzwD6umKbuOES5JfOwRgA&s" />
-    <img width="30px" title="chart js" src="https://www.chartjs.org/media/logo-title.svg" />
     <img width="25px" title="composer" src="https://cdn.worldvectorlogo.com/logos/composer.svg" />
     <img width="30px" title="symfony" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9SjIbMYa0n2RMI8sDmIHkExRRpezpAP_-7A&s" />
     <img width="30px" title="nodejs runtime" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
