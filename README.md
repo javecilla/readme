@@ -66,17 +66,6 @@
     <img width="30px" title="github action" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /> 
   </kbd>
   <kbd>
-    <kbd>Web Hosting (Experience)</kbd>
-    <br>
-    <br>
-    <img width="30px" title="github pages" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img width="30px" title="vercel" src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png" />
-    <img width="30px" title="cpanel" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXeNlCtJpIjX0MieB0Jdtx5xI2iKL-AUJCYw&s" />
-    <img width="30px" title="hostgator" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB-WOkNWv3EnGpOd8mR8-Kj3qFzSxTaJvAg&s" />
-    <img width="30px" title="go daddy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5tIW0piUCQGICpqFHolVv8QSR1ryqZ_kww&s" />
-    <img width="25px" title="hostinger" src="https://www.elegantthemes.com/blog/wp-content/uploads/2024/05/Hostinger-Logo.png" />
-  </kbd>
-  <kbd>
     <kbd>Development Tools</kbd>
     <br>
     <br> 
@@ -91,7 +80,17 @@
     <img width="30px" title="gitbash" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />  
     <img width="30px" title="cmd" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
   </kbd>
-  
+   <kbd>
+    <kbd>Web Hosting (Experience)</kbd>
+    <br>
+    <br>
+    <img width="30px" title="github pages" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img width="30px" title="vercel" src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png" />
+    <img width="30px" title="cpanel" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXeNlCtJpIjX0MieB0Jdtx5xI2iKL-AUJCYw&s" />
+    <img width="30px" title="hostgator" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB-WOkNWv3EnGpOd8mR8-Kj3qFzSxTaJvAg&s" />
+    <img width="30px" title="go daddy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5tIW0piUCQGICpqFHolVv8QSR1ryqZ_kww&s" />
+    <img width="25px" title="hostinger" src="https://www.elegantthemes.com/blog/wp-content/uploads/2024/05/Hostinger-Logo.png" />
+  </kbd>
   <kbd>
     <kbd>Others</kbd>
     <br>
