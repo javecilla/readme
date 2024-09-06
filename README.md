@@ -138,3 +138,7 @@
 <a href="https://instagram.com/_jzerome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://discord.gg/javecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javecilla" height="40" width="45" /></a>
 </p>
+
+<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=javecilla&show_icons=true&locale=en" alt="GitHub Stats" /></a>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=javecilla&theme=transparent" alt="GitHub Streak" /></a>
