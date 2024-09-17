@@ -1,11 +1,15 @@
-<h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Jerome Avecilla</h1>
-<h3 align="center">An Aspiring Web Developer</h3>
 
-<p align="center">
-    <img alt="PHP Developer"  width="300" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/PHP-Developers.gif"/>
+<h3 align="left">About me: </h3>
+
+<img alt="hero"  width="400" src="https://cdn.goldenmindsbulacan.com/assets/images/dev/hero-rm.png" align='right'/>
+
+<p align="left">
+	I am a second-year BSIT student with a passion for web development. I devote significant time to refining my skills and broadening my expertise across various facets of web development. Since embarking my journey in 2021, I have become proficiency in HTML, CSS, and JavaScript. My commitment is unwavering as I strive for continuous learning and growth in this dynamic field.
+<br/><br/>
+	Currently doing Part Time - IΤ 𝖠ssistant at <a href="https://www.goldenmindsbulacan.com" target="_blank">Golden Minds Colleges</a> from May 2022 - Present. My job is to design, develop, and implement innovative web-based solutions while maintaining and optimizing existing systems to meet evolving business needs and industry standards.
 </p>
 
-<p align="center"> 
+<p align="left"> 
   <span>
     <a target="_blank">
 	    <img src="https://komarev.com/ghpvc/?username=javecilla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="20" />
@@ -22,10 +26,8 @@
   </span>
 </p>
 
-<h3 align="left">About me: </h3>
-<p align="left">
-	I am a second-year BSIT student with a passion for web development. I devote significant time to refining my skills and broadening my expertise across various facets of web development. Since embarking my journey in 2021, I have become proficiency in HTML, CSS, and JavaScript. My commitment is unwavering as I strive for continuous learning and growth in this dynamic field.
-</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
