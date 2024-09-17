@@ -1,7 +1,7 @@
 
 <h3 align="left">About me: </h3>
 
-<img alt="hero"  width="400" src="https://cdn.goldenmindsbulacan.com/assets/images/dev/hero-rm.png" align='right'/>
+<img alt="hero"  width="400" src="https://cdn.goldenmindsbulacan.com/assets/images/dev/t.png" align='right'/>
 
 <p align="left">
 	I am a second-year BSIT student with a passion for web development. I devote significant time to refining my skills and broadening my expertise across various facets of web development. Since embarking my journey in 2021, I have become proficiency in HTML, CSS, and JavaScript. My commitment is unwavering as I strive for continuous learning and growth in this dynamic field.
