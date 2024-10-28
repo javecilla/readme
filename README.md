@@ -6,7 +6,7 @@
 <p align="left">
 	I am a second-year BSIT student with a passion for web development. I devote significant time to refining my skills and broadening my expertise across various facets of web development. Since embarking my journey in 2021, I have become proficiency in HTML, CSS, and JavaScript. My commitment is unwavering as I strive for continuous learning and growth in this dynamic field.
 <br/><br/>
-	Currently doing Part Time - IΤ 𝖠ssistant at <a href="https://www.goldenmindsbulacan.com" target="_blank">Golden Minds Colleges</a> from May 2022 - Present. My job is to design, develop, and implement innovative web-based solutions while maintaining and optimizing existing systems to meet evolving business needs and industry standards.
+	Currently doing Part Time - IΤ 𝖠ssistant at <a href="https://www.goldenminds.edu.ph/" target="_blank">Golden Minds Colleges</a> from May 2022 - Present. My job is to design, develop, and implement innovative web-based solutions while maintaining and optimizing existing systems to meet evolving business needs and industry standards.
 </p>
 
 <p align="left"> 
@@ -45,6 +45,7 @@
     <img width="30px" title="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
     <img width="30px" title="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="30px" title="vue js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img width="30px" title="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
@@ -116,9 +117,7 @@
           <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
         </td>
         <td>
-         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img width="35" title="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-  </a>
+        
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
      <img width="35" title="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> 
   </a>
