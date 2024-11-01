@@ -124,7 +124,7 @@
      <img width="35" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> 
-     <img width="35" title="ms sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /> 
+     <img width="30" title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
   </a>
         </td>
     </tr>
