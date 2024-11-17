@@ -53,6 +53,7 @@
     <br>
     <img width="30px" title="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
     <img width="30px" title="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> 
+    <img width="30px" title="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   </kbd>
   <kbd>
     <kbd>Databases</kbd>
@@ -74,6 +75,7 @@
     <br> 
     <img width="30px" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
     <img width="30px" title="sublimetext" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />  
+    <img width="25px" title="netbeans" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEQUKp_UVVWQLeo76DX5YfGVMcY936oi6aA&s" />
     <img width="30px" title="xampp" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" />
     <img width="30px" title="mysql workbench" src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200" />
     <img width="30px" title="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />  
@@ -123,8 +125,11 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
      <img width="35" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> 
-     <img width="30" title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
+  <a href="https://docs.spring.io/spring-boot/index.html" target="_blank" rel="noreferrer"> 
+     <img width="25" title="javaspringboot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
+  </a>
+   <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"> 
+     <img width="35" title="microsoftsqlserver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /> 
   </a>
         </td>
     </tr>
