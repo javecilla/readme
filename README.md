@@ -80,7 +80,6 @@
     <img width="30px" title="mysql workbench" src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200" />
     <img width="30px" title="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />  
     <img width="30px" title="httpie" src="https://testdev.tools/images/resources/httpie.png" /> 
-    <img width="30px" title="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
     <img width="30px" title="github desktop" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOYxPmG8LC5HCIw74mb5EMVSOxFjpQQ3aGjg&s" />   
     <img width="30px" title="gitbash" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />  
     <img width="30px" title="bash script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
@@ -105,6 +104,7 @@
     <img width="30px" title="nodejs runtime" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img width="30px" title="vite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" />
+    <img width="30px" title="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img width="30px" title="canva" src="https://static.canva.com/static/images/favicon-1.ico" />
     <img width="30px" title="markdown" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/markdown/markdown-original.svg" />
   </kbd>
