@@ -45,6 +45,7 @@
     <img width="30px" title="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
     <img width="30px" title="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="30px" title="vue js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img width="30px" title="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
     <img width="30px" title="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </kbd>
   <kbd>
@@ -53,7 +54,6 @@
     <br>
     <img width="30px" title="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
     <img width="30px" title="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> 
-    <img width="30px" title="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   </kbd>
   <kbd>
     <kbd>Databases</kbd>
@@ -75,11 +75,9 @@
     <br> 
     <img width="30px" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
     <img width="30px" title="sublimetext" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />  
-    <img width="25px" title="netbeans" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEQUKp_UVVWQLeo76DX5YfGVMcY936oi6aA&s" />
     <img width="30px" title="xampp" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" />
     <img width="30px" title="mysql workbench" src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200" />
     <img width="30px" title="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />  
-    <img width="30px" title="httpie" src="https://testdev.tools/images/resources/httpie.png" /> 
     <img width="30px" title="github desktop" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOYxPmG8LC5HCIw74mb5EMVSOxFjpQQ3aGjg&s" />   
     <img width="30px" title="gitbash" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />  
     <img width="30px" title="bash script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
@@ -89,7 +87,7 @@
     <br>
     <br>
     <img width="30px" title="github pages" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img width="30px" title="vercel" src="https://seeklogo.com/images/V/vercel-logo-F748E39008-seeklogo.com.png" />
+    <img width="30px" title="vercel" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" />
     <img width="30px" title="hostgator" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB-WOkNWv3EnGpOd8mR8-Kj3qFzSxTaJvAg&s" />
     <img width="30px" title="go daddy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5tIW0piUCQGICpqFHolVv8QSR1ryqZ_kww&s" />
     <img width="25px" title="hostinger" src="https://www.elegantthemes.com/blog/wp-content/uploads/2024/05/Hostinger-Logo.png" />
@@ -118,16 +116,15 @@
           <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
         </td>
         <td>
-        
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-     <img width="35" title="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> 
-  </a>
+
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
      <img width="35" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
   </a>
-  <a href="https://docs.spring.io/spring-boot/index.html" target="_blank" rel="noreferrer"> 
-     <img width="25" title="javaspringboot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+     <img width="50" title="aws s3" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" /> 
   </a>
+
+  
    <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"> 
      <img width="35" title="microsoftsqlserver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /> 
   </a>
