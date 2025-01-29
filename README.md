@@ -4,7 +4,7 @@
 <img alt="hero"  width="300" src="https://static.goldenmindsbulacan.com/assets/images/dev/14241.jpg" align='right'/>
 
 <p align="left">
-	I am a second-year BSIT student with a passion for web development. I devote significant time to refining my skills and broadening my expertise across various facets of web development. Since embarking my journey in 2021, I have become proficiency in HTML, CSS, and JavaScript. My commitment is unwavering as I strive for continuous learning and growth in this dynamic field.
+I am a second-year BSIT student passionate about web development. Since starting my journey in 2021, I have dedicated myself to refining my skills and broadening my expertise in HTML, CSS, JavaScript, and more. My commitment to continuous learning and innovation drives me to stay ahead of industry trends.
 </p>
 
 <p align="left"> 
@@ -18,7 +18,7 @@
     <a href="mailto:jeromesavc@gmail.com">
 	    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20" />
     </a>
-    <a href="https://www.linkedin.com/in/jerome-avecilla-528722239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <a href="https://www.linkedin.com/in/jerome-avecilla-528722239/">
 	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
     </a>
   </span>
@@ -134,7 +134,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsjerome" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg" alt="twitter" height="30" width="30" /></a>
+<a href="https://x.com/_javecilla" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg" alt="twitter" height="30" width="30" /></a>
 <a href="https://fb.com/jerome.avecilla24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/_jzerome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://discord.gg/javecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javecilla" height="40" width="45" /></a>
