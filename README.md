@@ -5,8 +5,6 @@
 
 <p align="left">
 	I am a second-year BSIT student with a passion for web development. I devote significant time to refining my skills and broadening my expertise across various facets of web development. Since embarking my journey in 2021, I have become proficiency in HTML, CSS, and JavaScript. My commitment is unwavering as I strive for continuous learning and growth in this dynamic field.
-<br/><br/>
-	Currently doing Part Time - IΤ 𝖠ssistant at <a href="https://www.goldenminds.edu.ph/" target="_blank">Golden Minds Colleges</a> from May 2022 - Present. My job is to design, develop, and implement innovative web-based solutions while maintaining and optimizing existing systems to meet evolving business needs and industry standards.
 </p>
 
 <p align="left"> 
@@ -143,5 +141,3 @@
 </p>
 
 <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=javecilla&show_icons=true&locale=en" alt="GitHub Stats" /></a>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=javecilla&theme=transparent" alt="GitHub Streak" /></a>
