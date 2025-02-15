@@ -1,8 +1,5 @@
 
 <h3 align="left">About me: </h3>
-
-<img alt="hero"  width="300" src="https://static.goldenmindsbulacan.com/assets/images/dev/14241.jpg" align='right'/>
-
 <p align="left">
 I am a second-year BSIT student passionate about web development. Since starting my journey in 2021, I have dedicated myself to refining my skills and broadening my expertise in HTML, CSS, JavaScript, and more. My commitment to continuous learning and innovation drives me to stay ahead of industry trends.
 </p>
@@ -57,7 +54,8 @@ I am a second-year BSIT student passionate about web development. Since starting
     <kbd>Databases</kbd>
     <br>
     <br>
-    <img width="30px" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+    <img width="30px" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
+    <img width="30px" title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
   </kbd>
   <kbd>
     <kbd>CI/CD</kbd>
@@ -66,19 +64,6 @@ I am a second-year BSIT student passionate about web development. Since starting
     <img width="30px" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img width="30px" title="gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
     <img width="30px" title="github action" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /> 
-  </kbd>
-  <kbd>
-    <kbd>Development Tools</kbd>
-    <br>
-    <br> 
-    <img width="30px" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
-    <img width="30px" title="sublimetext" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />  
-    <img width="30px" title="xampp" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" />
-    <img width="30px" title="mysql workbench" src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200" />
-    <img width="30px" title="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />  
-    <img width="30px" title="github desktop" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOYxPmG8LC5HCIw74mb5EMVSOxFjpQQ3aGjg&s" />   
-    <img width="30px" title="gitbash" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />  
-    <img width="30px" title="bash script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
   </kbd>
    <kbd>
     <kbd>Web Hosting (Experience)</kbd>
@@ -89,20 +74,6 @@ I am a second-year BSIT student passionate about web development. Since starting
     <img width="30px" title="hostgator" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB-WOkNWv3EnGpOd8mR8-Kj3qFzSxTaJvAg&s" />
     <img width="30px" title="go daddy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5tIW0piUCQGICpqFHolVv8QSR1ryqZ_kww&s" />
     <img width="25px" title="hostinger" src="https://www.elegantthemes.com/blog/wp-content/uploads/2024/05/Hostinger-Logo.png" />
-  </kbd>
-  <kbd>
-    <kbd>Others</kbd>
-    <br>
-    <br>
-    <img width="30px" title="cdn js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3X0aV2kvIeIx6PzwD6umKbuOES5JfOwRgA&s" />
-    <img width="25px" title="composer" src="https://cdn.worldvectorlogo.com/logos/composer.svg" />
-    <img width="30px" title="symfony" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9SjIbMYa0n2RMI8sDmIHkExRRpezpAP_-7A&s" />
-    <img width="30px" title="nodejs runtime" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img width="30px" title="vite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" />
-    <img width="30px" title="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img width="30px" title="canva" src="https://static.canva.com/static/images/favicon-1.ico" />
-    <img width="30px" title="markdown" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/markdown/markdown-original.svg" />
   </kbd>
 </p>
 
