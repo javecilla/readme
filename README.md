@@ -9,13 +9,13 @@ I am a second-year BSIT student passionate about web development. Since starting
     <a target="_blank">
 	    <img src="https://komarev.com/ghpvc/?username=javecilla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="20" />
     </a>
-   <a href="https://javecilla.vercel.app" target="_blank">
+   <a href="https://jerome-avecilla.vercel.app" target="_blank">
 	<img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Portfolio" height="20" />
    </a>
     <a href="mailto:jeromesavc@gmail.com">
 	    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20" />
     </a>
-    <a href="https://www.linkedin.com/in/jerome-avecilla-528722239/">
+    <a href="https://www.linkedin.com/in/jerome-avecilla/">
 	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
     </a>
   </span>
@@ -85,7 +85,9 @@ I am a second-year BSIT student passionate about web development. Since starting
           <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
         </td>
         <td>
-
+<a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+ <img  width="35" title="nuxt js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
+</a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
      <img width="35" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
   </a>
@@ -107,7 +109,7 @@ I am a second-year BSIT student passionate about web development. Since starting
 <p align="left">
 <a href="https://x.com/_javecilla" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg" alt="twitter" height="30" width="30" /></a>
 <a href="https://fb.com/jerome.avecilla24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/_jzerome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/_javecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://discord.gg/javecilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javecilla" height="40" width="45" /></a>
 </p>
 
