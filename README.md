@@ -54,8 +54,9 @@ I am a second-year BSIT student passionate about web development. Since starting
     <kbd>Databases</kbd>
     <br>
     <br>
-    <img width="30px" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
+    <img width="30px" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
     <img width="30px" title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
+    <img width="30px" title="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />           
   </kbd>
   <kbd>
     <kbd>CI/CD</kbd>
