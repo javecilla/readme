@@ -1,7 +1,7 @@
 
 <h3 align="left">About me: </h3>
 <p align="left">
-I am a second-year BSIT student passionate about web development. Since starting my journey in 2021, I have dedicated myself to refining my skills and broadening my expertise in HTML, CSS, JavaScript, and more. My commitment to continuous learning and innovation drives me to stay ahead of industry trends.
+Hello, I'm Jerome Avecilla—a 21-year-old BSIT student with a passion for web development. Since 2021, I've been honing my skills in HTML, CSS, JavaScript and now expanding my knowledge in modern frameworks like Vue.js, enabling me to create user-friendly digital experiences that boost engagement and streamline processes. 
 </p>
 
 <p align="left"> 
@@ -75,6 +75,7 @@ I am a second-year BSIT student passionate about web development. Since starting
     <img width="30px" title="hostgator" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB-WOkNWv3EnGpOd8mR8-Kj3qFzSxTaJvAg&s" />
     <img width="30px" title="go daddy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5tIW0piUCQGICpqFHolVv8QSR1ryqZ_kww&s" />
     <img width="25px" title="hostinger" src="https://www.elegantthemes.com/blog/wp-content/uploads/2024/05/Hostinger-Logo.png" />
+	<img width="25px" title="infinityfree" src="https://infinityfree-forum-uploads.s3.dualstack.eu-central-1.amazonaws.com/original/3X/a/a/aa031572455185b8e9ad7c1bc79f3816a1eb2a1b.png" />
   </kbd>
 </p>
 
@@ -86,15 +87,19 @@ I am a second-year BSIT student passionate about web development. Since starting
           <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
         </td>
         <td>
-<a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+			<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+     <img width="25" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
+  </a>
+<!-- <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
  <img  width="35" title="nuxt js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
-</a>
+</a> -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
      <img width="35" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
   </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+			<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
      <img width="50" title="aws s3" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" /> 
   </a>
+
 
   
    <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"> 
