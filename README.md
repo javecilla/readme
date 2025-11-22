@@ -1,7 +1,13 @@
 
 <h3 align="left">About me: </h3>
 <p align="left">
-Hello, I'm Jerome Avecilla—a 21-year-old BSIT student with a passion for web development. Since 2021, I've been honing my skills in HTML, CSS, JavaScript and now expanding my knowledge in modern frameworks like Vue.js, enabling me to create user-friendly digital experiences that boost engagement and streamline processes. 
+Hello, I'm Jerome Avecilla. I am an IT student with a professional mindset, actively building my career as a Full-Stack Web Developer. Based in the Philippines, I go beyond the classroom to architect and build robust web applications using Vue.js, TypeScript, and Laravel.
+
+I actively enhance my skills through project-based learning, taking on diverse challenges across client work, academic projects, and personal initiatives. I treat every deliverable with professional dedication, ensuring that my code is clean, scalable, and user-centric.
+
+Currently, I am focused on mastering cloud technologies and system architecture. I am eager to connect with industry professionals and take on challenges that will accelerate my transition from a student to a seasoned developer.
+
+
 </p>
 
 <p align="left"> 
@@ -59,12 +65,13 @@ Hello, I'm Jerome Avecilla—a 21-year-old BSIT student with a passion for web d
     <img width="30px" title="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />           
   </kbd>
   <kbd>
-    <kbd>CI/CD</kbd>
+    <kbd>DevOps Tools</kbd>
     <br>
     <br>
     <img width="30px" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img width="30px" title="gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
     <img width="30px" title="github action" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /> 
+	<img width="35" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
   </kbd>
    <kbd>
     <kbd>Web Hosting (Experience)</kbd>
@@ -72,6 +79,7 @@ Hello, I'm Jerome Avecilla—a 21-year-old BSIT student with a passion for web d
     <br>
     <img width="30px" title="github pages" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img width="30px" title="vercel" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" />
+    <img width="30px" title="googlecloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
     <img width="30px" title="hostgator" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaB-WOkNWv3EnGpOd8mR8-Kj3qFzSxTaJvAg&s" />
     <img width="30px" title="go daddy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5tIW0piUCQGICpqFHolVv8QSR1ryqZ_kww&s" />
     <img width="25px" title="hostinger" src="https://www.elegantthemes.com/blog/wp-content/uploads/2024/05/Hostinger-Logo.png" />
@@ -90,18 +98,9 @@ Hello, I'm Jerome Avecilla—a 21-year-old BSIT student with a passion for web d
 			<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
      <img width="25" title="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
   </a>
-<!-- <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
- <img  width="35" title="nuxt js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
-</a> -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-     <img width="35" title="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
-  </a>
-			<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
      <img width="50" title="aws s3" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" /> 
   </a>
-
-
-  
    <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"> 
      <img width="35" title="microsoftsqlserver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /> 
   </a>
